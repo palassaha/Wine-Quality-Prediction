@@ -67,5 +67,5 @@ async def predict(
         print("The Exception message is:", e)
         return HTMLResponse(content = "Something went wrong", status_code = 500)
     
-if __name__ == "__main__":
-    uvicorn.run("app:app")
+# if __name__ == "__main__":
+#     uvicorn.run("app:app")
