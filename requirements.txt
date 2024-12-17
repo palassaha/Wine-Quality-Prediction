@@ -70,7 +70,7 @@ MarkupSafe==3.0.2
 matplotlib==3.9.3
 matplotlib-inline==0.1.7
 mistune==3.0.2
--e git+https://github.com/palassaha/Wine-Quality-Prediction.git@d68297a1aaf6a939c5d7aecc6972820d496f92ba#egg=ML_Project
+# -e git+https://github.com/palassaha/Wine-Quality-Prediction.git@d68297a1aaf6a939c5d7aecc6972820d496f92ba#egg=ML_Project
 mlflow==2.2.2
 nbclient==0.10.1
 nbconvert==7.16.4
