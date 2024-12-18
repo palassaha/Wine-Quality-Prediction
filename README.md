@@ -6,7 +6,7 @@ Welcome to this wine-quality prediction project, where we combine the power of m
 
 - **Experiment Tracking:** Monitor and manage your experiments with MLflow.
 - **Version Control:** Collaborate effectively using DAGsHub.
-- **FastAPI/Flask Web App:** Easily predict wine quality through a user-friendly interface.
+- **FastAPI Web App:** Easily predict wine quality through a user-friendly interface.
 
 ## 🛠 Prerequisites
 
