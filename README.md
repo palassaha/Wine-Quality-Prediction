@@ -73,6 +73,13 @@ Train the model by navigating to:
 http://127.0.0.1:8080/train
 ```
 
+Alternatively, you can train the model by running:
+
+```
+python main.py
+```
+
+
 This will trigger the training pipeline and prepare your model for predictions. 🏋️‍♂️ After training, an artifacts folder will be generated, containing the `model.joblib` file along with detailed metrics and performance scores of the trained model.
 
 ### 7. Make Predictions
